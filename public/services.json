@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/3SnHpTw/webdevelopment.jpg",
+        "title": "Web Development"
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/sFkZKvy/digital4.webp",
+        "title": "Digital Marketing"
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/MNJGxZ6/graphic3.jpg",
+        "title": "Graphics Design"
+    }
+]
+

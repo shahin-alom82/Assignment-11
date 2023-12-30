@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/Y2x7DjV/development1.png",
+        "brand": "WebDevelopment",
+        "price": "124 $",
+        "deadline": "12/7/2023",
+        "description": "Web development involves creating and maintaining websites and web applications, encompassing both front-end and back-end development to ensure a seamless online user experience."
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/WK58KJg/web2.jpg",
+        "brand": "WebDevelopment",
+        "price": "174 $",
+        "deadline": "11/5/2023",
+        "description": "Web development involves creating and maintaining websites and web applications, encompassing both front-end and back-end development to ensure a seamless online user experience."
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/kDggJM1/development3.jpg",
+        "brand": "WebDevelopment",
+        "price": "127 $",
+        "deadline": "6/8/2023",
+        "description": "Web development involves creating and maintaining websites and web applications, encompassing both front-end and back-end development to ensure a seamless online user experience."
+    },
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/tPQLBXL/development4.jpg",
+        "brand": "WebDevelopment",
+        "price": "154 $",
+        "deadline": "9/10/2023",
+        "description": "Web development involves creating and maintaining websites and web applications, encompassing both front-end and back-end development to ensure a seamless online user experience."
+    },
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/VYVs99L/digital1.jpg",
+        "brand": "DigitalMarketing",
+        "price": "114 $",
+        "deadline": "2/3/2023",
+        "description": "Digital marketing is the practice of promoting products or services using digital channels such as search engines, social media, email, and online advertising to reach and engage with a target audience."
+    },
+    {
+        "id": "6",
+        "img": "https://i.ibb.co/42bJ4Fs/digital2.jpg",
+        "brand": "DigitalMarketing",
+        "price": "194 $",
+        "deadline": "2/7/2023",
+        "description": "Digital marketing is the practice of promoting products or services using digital channels such as search engines, social media, email, and online advertising to reach and engage with a target audience."
+    },
+    {
+        "id": "7",
+        "img": "https://i.ibb.co/nnfYYbh/digital3.png",
+        "brand": "DigitalMarketing",
+        "price": "124 $",
+        "deadline": "12/9/2023",
+        "description": "Digital marketing is the practice of promoting products or services using digital channels such as search engines, social media, email, and online advertising to reach and engage with a target audience."
+    },
+    {
+        "id": "8",
+        "img": "https://i.ibb.co/sFkZKvy/digital4.webp",
+        "brand": "DigitalMarketing",
+        "price": "144 $",
+        "deadline": "8/7/2023",
+        "description": "Digital marketing is the practice of promoting products or services using digital channels such as search engines, social media, email, and online advertising to reach and engage with a target audience."
+    },
+    {
+        "id": "9",
+        "img": "https://i.ibb.co/vDP0SkS/graphic1.jpg",
+        "brand": "GraphicsDesign",
+        "price": "127 $",
+        "deadline": "29/10/2023",
+        "description": "Graphics design is the art and science of creating visual content and imagery to communicate messages and concepts effectively. It involves the use of typography, imagery, and layout to craft eye-catching "
+    },
+    {
+        "id": "10",
+        "img": "https://i.ibb.co/j3N50Hq/graphic2.webp",
+        "title": "GraphicsDesign",
+        "price": "324 $",
+        "deadline": "11/11/2023",
+        "description": "Graphics design is the art and science of creating visual content and imagery to communicate messages and concepts effectively. It involves the use of typography, imagery, and layout to craft eye-catching"
+    },
+    {
+        "id": "11",
+        "img": "https://i.ibb.co/MNJGxZ6/graphic3.jpg",
+        "brand": "GraphicsDesignt",
+        "price": "224 $",
+        "deadline": "6/11/2023",
+        "description": "Graphics design is the art and science of creating visual content and imagery to communicate messages and concepts effectively. It involves the use of typography, imagery, and layout to craft eye-catching "
+    },
+    {
+        "id": "12",
+        "img": "https://i.ibb.co/JjJDgxP/graphic.jpg",
+        "brand": "GraphicsDesign",
+        "price": "125 $",
+        "deadline": "2/11/2023",
+        "description": "Graphics design is the art and science of creating visual content and imagery to communicate messages and concepts effectively. It involves the use of typography, imagery, and layout to craft eye-catching"
+    }
+]
